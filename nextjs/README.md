@@ -1,28 +1,42 @@
-## Conversational AI Demo
+# 0xAgent: Conversation AI Agent
 
-## Setup
+## Project Overview
+This repository contains a Next.js application with a voice-based AI agent. The application allows users to interact with the AI by clicking the **"Start Test"** button on the website. The AI agent processes voice inputs and provides intelligent responses.
 
-Set up the environment variables:
+---
 
+
+
+## Installation
+
+### 1. Clone the Repository
+Clone the project to your local system:
 ```bash
-cp .env.example .env
+git clone https://github.com/dumprahul/zk-scholar/tree/master/nextjs
 ```
 
-Follow [this guide](https://elevenlabs.io/docs/conversational-ai/docs/agent-setup) to configure your agent and get your API key and set them in the `.env` file.
-
-Run the development server:
-
+### Set Up Environmental Variable:
 ```bash
+ELEVENLABS_AGENT_ID=
+ELEVENLABS_API_KEY=
+GROQ_API_KEY=
+```
+
+### Run in local Environment
+```bash
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
-## Learn More
+## Usage
 
-- [Conversational AI Tutorial](https://elevenlabs.io/docs/product/introduction)
-- [Conversational AI SDK](https://elevenlabs.io/docs/libraries/conversational-ai-sdk-js)
+1. **Access the Application**  
+   Open the application in your browser at the designated URL.
+
+2. **Start the AI Agent**  
+   Click the **"Start Test"** button on the homepage to initiate the voice-based AI agent.
+
+3. **Interact with the AI**  
+   Speak into your device's microphone. The AI agent will process your input and respond accordingly.
