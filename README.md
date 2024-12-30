@@ -10,7 +10,7 @@ zk-scholar is a blockchain-based platform designed to revolutionize scholarship 
 
 ![image](https://github.com/user-attachments/assets/1b76cda3-5c0f-4432-9d5f-d2467df13fce)
 
-##Initialize the project
+## Initialize the project
    ```bash
    npm init -y
    npm install
