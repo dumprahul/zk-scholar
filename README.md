@@ -8,14 +8,15 @@
 ## Overview
 zk-scholar is a blockchain-based platform designed to revolutionize scholarship distribution. By integrating AI-powered evaluation agents and Zero-Knowledge Proofs (ZK-Proofs), we ensure secure, transparent, and efficient scholarship fund allocation.
 
-![image](https://github.com/user-attachments/assets/1b76cda3-5c0f-4432-9d5f-d2467df13fce)
-
 ## Initialize the project
    ```bash
    npm init -y
    npm install
    npm run dev
    ```
+
+![image](https://github.com/user-attachments/assets/1b76cda3-5c0f-4432-9d5f-d2467df13fce)
+
 
 ## Features
 - **Identity Verification**: Students verify their identity using zk-anon Aadhaar, revealing only essential details (age, gender, state).
