@@ -1,7 +1,9 @@
 # zk-scholar: Decentralized Scholarship Funding Platform
+![image](https://github.com/user-attachments/assets/79c662cd-e235-428c-87f2-a5d3419aa077)
 
 ## Overview
 zk-scholar is a blockchain-based platform designed to revolutionize scholarship distribution. By integrating AI-powered evaluation agents and Zero-Knowledge Proofs (ZK-Proofs), we ensure secure, transparent, and efficient scholarship fund allocation.
+![image](https://github.com/user-attachments/assets/1b76cda3-5c0f-4432-9d5f-d2467df13fce)
 
 ## Features
 - **Identity Verification**: Students verify their identity using zk-anon Aadhaar, revealing only essential details (age, gender, state).
@@ -15,6 +17,7 @@ zk-scholar is a blockchain-based platform designed to revolutionize scholarship 
 3. Take an AI-administered test evaluated by 0xAgent.
 4. Scores are stored on-chain, and smart contracts allocate funds accordingly.
 5. Universities verify scholarships and claim funds securely.
+![0k_hack_flowchart](https://github.com/user-attachments/assets/b630706f-f52d-4da9-be37-af6cdfb5f164)
 
 ## Links
 - **GitHub Repository**: [zk-scholar](https://github.com/dumprahul/zk-scholar)  
